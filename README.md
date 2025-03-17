@@ -1,2 +1,2 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+# Nguyễn Quý Phúc
+# 2180608410
